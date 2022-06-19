@@ -44,7 +44,8 @@
 - [Корисні Посилання](#star2-корисні-посилання)
   * [Книжки](#books-книжки)
   * [Курси](#dart-курси)
-  * [Блоги](#art-блоги)
+  * [Відео](#film_projector-відео)
+  * [Блоги](#art-блоги-та-інш.)
   * [Спільноти](#family-спільноти)
   * [Інше](#hammer_and_wrench-інше)
 - [Статут](#scroll-статут)
@@ -123,6 +124,8 @@
     <li><a href="https://twitter.github.io/effectivescala/">Effective Scala by Twitter</a></li>
     <li><a href="http://aperiodic.net/phil/scala/s-99/">I've got 99 problems but Scala ain't one :)</a></li>
     <li><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
+    <li><a href="https://kubuszok.com/tags/#scala">Blog by Mateusz Kubuszok</a></li>
+    <li><a href="https://medium.com/disney-streaming/tagged/thisweekinscala">This week in Scala by Petr Zapletal</a></li>
 </ul>
 
 <!-- Communities -->
