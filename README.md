@@ -45,7 +45,7 @@
   * [Книжки](#books-книжки)
   * [Курси](#dart-курси)
   * [Відео](#film_projector-відео)
-  * [Блоги](#art-блоги-та-інш.)
+  * [Блоги](#art-блоги)
   * [Спільноти](#family-спільноти)
   * [Інше](#hammer_and_wrench-інше)
 - [Статут](#scroll-статут)
@@ -118,7 +118,7 @@
 </ul>
 
 <!-- Blogs -->
-### :art: Блоги та інш.
+### :art: Блоги
 <ul>
     <li><a href="https://softwaremill.com/blog/">Softwaremill</a></li>
     <li><a href="https://twitter.github.io/effectivescala/">Effective Scala by Twitter</a></li>
