@@ -133,6 +133,8 @@
 ### :family: Спільноти
 <ul>
     <li><a href="https://t.me/scala_ukraine">Scala Ukraine</a></li>
+    <li><a href="https://t.me/scala_hero">Scala Hero</a></li>
+    <li><a href="https://t.me/+wCiOYwuqEQ04MWJi">Kyiv Data Science</a></li>
 </ul>
 
 <!-- Other -->
