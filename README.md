@@ -40,7 +40,7 @@
 <br />
 
 <!-- Table of Contents -->
-# :closed_book: Table of Contents
+# :closed_book: Зміст
 
 - [Корисні Посилання](#star2-корисні-посилання)
   * [Книжки](#books-книжки)
