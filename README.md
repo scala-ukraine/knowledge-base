@@ -50,6 +50,7 @@
   * [Спільноти](#family-спільноти)
   * [Інше](#hammer_and_wrench-інше)
 - [Статут](#scroll-статут)
+- [Наші Opensource проекти](#scientist-opensource)
 - [Як допомогти](#wave-як-допомогти)
 - [Контакти](#handshake-контакти)
 - [Подяки](#gem-подяки)
@@ -110,6 +111,7 @@
 <!-- Youtube -->
 ### :film_projector: Відео
 <ul>
+  <li><a href="https://www.youtube.com/c/SCALAUA">ScalaUA Conference Youtube Channel</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF">Play Framework using Scala by Mark Lewis</a></li>
   <li><a href="https://www.youtube.com/c/FunctionalJustin">Functional Justin</a></li>
   <li><a href="https://www.youtube.com/channel/UCIH0OgqE54-KEvYDg4LRhKQ">Scala 3 Compiler Academy</a></li>
@@ -133,12 +135,24 @@
 ### :family: Спільноти
 <ul>
     <li><a href="https://t.me/scala_ukraine">Scala Ukraine</a></li>
+    <li><a href="https://www.facebook.com/groups/scala.ua">ScalaUA Facebook Group</a></li>
+    <li><a href="https://www.meetup.com/meetup-group-kyiv-scala-group/">Kyiv Scala Meetup Group</a></li>
     <li><a href="https://t.me/scala_hero">Scala Hero</a></li>
     <li><a href="https://t.me/+wCiOYwuqEQ04MWJi">Kyiv Data Science</a></li>
 </ul>
 
 <!-- Other -->
 ## :hammer_and_wrench: Інше
+
+## :scientist: Opensource
+<span>Відкриті проекти учасників нашої спільноти:</span>
+<ul>
+    <li><a href="https://github.com/VladKopanev/cats-saga">Cats Saga</a></li>
+    <li><a href="https://github.com/rssh/dotty-cps-async">Dotty CSP Async</a></li>
+    <li><a href="https://github.com/jap-company/fields">Fields</a></li>
+    <li><a href="https://github.com/vitaliihonta/scala-ql">ScalaQL</a></li>
+    <li><a href="https://github.com/VladKopanev/zio-saga">ZIO Saga</a></li>
+</ul>
 
 <!-- Code of Conduct -->
 ## :scroll: Статут
