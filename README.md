@@ -49,6 +49,7 @@
 - [Корисні Посилання](#star2-корисні-посилання)
   * [Книжки](#books-книжки)
   * [Курси](#dart-курси)
+  * [Вправи](#muscle-вправи)
   * [Відео](#film_projector-відео)
   * [Блоги](#art-блоги)
   * [Спільноти](#family-спільноти)
@@ -112,6 +113,14 @@
     <li><a href="https://www.coursera.org/specializations/scala">Functional Programming in Scala Specialization by M. Odersky</a></li>
 </ul>
 
+<!-- Exercises -->
+### :muscle: Вправи
+
+<ul>
+    <li><a href="https://exercism.org/tracks/scala">Exercism</a></li>
+    <li><a href="http://aperiodic.net/phil/scala/s-99/">I've got 99 problems but Scala ain't one :)</a></li>
+</ul>
+
 <!-- Youtube -->
 ### :film_projector: Відео
 <ul>
@@ -129,7 +138,6 @@
 <ul>
     <li><a href="https://softwaremill.com/blog/">Softwaremill</a></li>
     <li><a href="https://twitter.github.io/effectivescala/">Effective Scala by Twitter</a></li>
-    <li><a href="http://aperiodic.net/phil/scala/s-99/">I've got 99 problems but Scala ain't one :)</a></li>
     <li><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
     <li><a href="https://kubuszok.com/tags/#scala">Blog by Mateusz Kubuszok</a></li>
     <li><a href="https://medium.com/disney-streaming/tagged/thisweekinscala">This week in Scala by Petr Zapletal</a></li>
