@@ -119,6 +119,7 @@
 <ul>
     <li><a href="https://exercism.org/tracks/scala">Exercism</a></li>
     <li><a href="http://aperiodic.net/phil/scala/s-99/">I've got 99 problems but Scala ain't one :)</a></li>
+    <li><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
 </ul>
 
 <!-- Youtube -->
@@ -138,7 +139,6 @@
 <ul>
     <li><a href="https://softwaremill.com/blog/">Softwaremill</a></li>
     <li><a href="https://twitter.github.io/effectivescala/">Effective Scala by Twitter</a></li>
-    <li><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
     <li><a href="https://kubuszok.com/tags/#scala">Blog by Mateusz Kubuszok</a></li>
     <li><a href="https://medium.com/disney-streaming/tagged/thisweekinscala">This week in Scala by Petr Zapletal</a></li>
 </ul>
