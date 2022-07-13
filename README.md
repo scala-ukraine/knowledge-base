@@ -117,9 +117,14 @@
 ### :muscle: Вправи
 
 <ul>
+    <li><a href="https://www.codetriage.com">CodeTriage</a></li>
+    <li><a href="https://www.codewars.com">Codewars</a></li>
     <li><a href="https://exercism.org/tracks/scala">Exercism</a></li>
     <li><a href="http://aperiodic.net/phil/scala/s-99/">I've got 99 problems but Scala ain't one :)</a></li>
     <li><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
+    <li><a href="https://olegpy.com/cats-effect-exercises/">Scala exercises: cats-effect</a></li>
+    <li><a href="https://scalapuzzlers.com/">Scala Puzzlers</a></li>
+    <li><a href="https://degoes.net/articles/zio-challenge">The Functional Scala Concurrency Challenge</a></li>
 </ul>
 
 <!-- Youtube -->
