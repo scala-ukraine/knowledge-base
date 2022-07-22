@@ -166,7 +166,10 @@
 <ul>
     <li><a href="https://github.com/VladKopanev/cats-saga">Cats Saga</a></li>
     <li><a href="https://github.com/rssh/dotty-cps-async">Dotty CSP Async</a></li>
+    <li><a href="https://github.com/yakivy/dupin">Dupin</a></li>
     <li><a href="https://github.com/jap-company/fields">Fields</a></li>
+    <li><a href="https://github.com/yakivy/jam">Jam</a></li>
+    <li><a href="https://github.com/yakivy/poppet">Poppet</a></li>
     <li><a href="https://github.com/vitaliihonta/scala-ql">ScalaQL</a></li>
     <li><a href="https://github.com/VladKopanev/zio-saga">ZIO Saga</a></li>
 </ul>
