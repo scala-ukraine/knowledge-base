@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img src="assets/img/logo.jpeg" alt="logo" width="200" height="auto" />
+  <picture>
+    <source srcset="assets/img/scala_logo_black.png" media="(prefers-color-scheme: dark)">
+    <img src="assets/img/scala_logo_white.png">
+  </picture>
+
   <h1>Scala Ukraine Knowledge Base</h1>
   
   <p>
