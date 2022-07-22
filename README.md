@@ -2,7 +2,7 @@
 
   <picture>
     <source srcset="assets/img/scala_logo_black.png" media="(prefers-color-scheme: dark)">
-    <img src="assets/img/scala_logo_white.png">
+    <img src="assets/img/scala_logo_white.png" alt="logo" width="200" height="auto">
   </picture>
 
   <h1>Scala Ukraine Knowledge Base</h1>
