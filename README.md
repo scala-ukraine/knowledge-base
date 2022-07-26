@@ -173,11 +173,11 @@
     <li><a href="https://github.com/yakivy/dupin">Dupin</a></li>
     <li><a href="https://github.com/jap-company/fields">Fields</a></li>
     <li><a href="https://github.com/yakivy/jam">Jam</a></li>
+    <li><a href="https://github.com/plokhotnyuk/jsoniter-scala">Jsoniter Scala</a></li>
     <li><a href="https://github.com/yakivy/poppet">Poppet</a></li>
+    <li><a href="https://github.com/plokhotnyuk/rtree2d">RTree2D</a></li>
     <li><a href="https://github.com/vitaliihonta/scala-ql">ScalaQL</a></li>
     <li><a href="https://github.com/VladKopanev/zio-saga">ZIO Saga</a></li>
-    <li><a href="https://github.com/plokhotnyuk/jsoniter-scala">Jsoniter Scala</a></li>
-    <li><a href="https://github.com/plokhotnyuk/rtree2d">RTree2D</a></li>
 </ul>
 
 <!-- Code of Conduct -->
