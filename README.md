@@ -177,6 +177,9 @@
 <span>Відкриті проекти учасників нашої спільноти:</span>
 <ul>
     <li><a href="https://github.com/VladKopanev/cats-saga">Cats Saga</a></li>
+    <li><a href="https://gitlab.com/NineKFlames/java-18-temurin-dind">DinD: Java 18 Temurin</a></li>
+    <li><a href="https://gitlab.com/NineKFlames/maven-dind">DinD: Maven</a></li>
+    <li><a href="https://gitlab.com/NineKFlames/sbt-dind">DinD: SBT</a></li>
     <li><a href="https://github.com/rssh/dotty-cps-async">Dotty CSP Async</a></li>
     <li><a href="https://github.com/yakivy/dupin">Dupin</a></li>
     <li><a href="https://github.com/jap-company/fields">Fields</a></li>
