@@ -56,6 +56,7 @@
   * [Вправи](#muscle-вправи)
   * [Відео](#film_projector-відео)
   * [Блоги](#art-блоги)
+  * [Подкасти](#studio_microphone-подкасти)
   * [Спільноти](#family-спільноти)
   * [Інше](#hammer_and_wrench-інше)
 - [Статут](#scroll-статут)
@@ -150,6 +151,13 @@
     <li><a href="https://twitter.github.io/effectivescala/">Effective Scala by Twitter</a></li>
     <li><a href="https://kubuszok.com/tags/#scala">Blog by Mateusz Kubuszok</a></li>
     <li><a href="https://medium.com/disney-streaming/tagged/thisweekinscala">This week in Scala by Petr Zapletal</a></li>
+</ul>
+
+<!-- Podcasts -->
+### :studio_microphone: Подкасти
+<ul>
+    <li><a href="www.tooling-talks.com">Tooling Talks by Chris Kipp</a></li>
+    <li><a href="anchor.fm/happypathprogramming">Happy Path Programming by Bruce Eckel & James Ward</a></li>
 </ul>
 
 <!-- Communities -->
