@@ -205,7 +205,7 @@
 <!-- Contact -->
 ## :handshake: Контакти
 
-Kopaniev Vladyslav - [@vendigor](https://t.me/vendigor) - ivengo53@gmail.com
+[info@ukraine.scala.group](info@ukraine.scala.group)
 
 Наш Телеграм Канал: [https://t.me/scala_ukraine](https://t.me/scala_ukraine)
 
