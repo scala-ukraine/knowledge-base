@@ -205,7 +205,7 @@
 <!-- Contact -->
 ## :handshake: Контакти
 
-[info@ukraine.scala.group](info@ukraine.scala.group)
+[info@ukraine.scala.group](mailto:info@ukraine.scala.group)
 
 Наш Телеграм Канал: [https://t.me/scala_ukraine](https://t.me/scala_ukraine)
 
