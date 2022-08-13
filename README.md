@@ -76,6 +76,7 @@
   <summary>На загальні теми</summary>
   <ul>
     <li><a href="https://www.artima.com/shop/programming_in_scala_5ed">Programming in Scala, Fifth Edition</a></li>
+    <li><a href="https://www.packtpub.com/product/professional-scala/9781789533835">Professional Scala by Ruslan Shevchenko, Mads Hartmann</li>
     <li><a href="https://www.manning.com/books/get-programming-with-scala">Get Programming with Scala</a></li>
     <li><a href="https://www.oreilly.com/library/view/programming-scala-3rd/9781492077886/">Programming Scala, 3rd Edition</a></li>
     <li><a href="https://books.google.com.ua/books/about/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC.html?id=rsJSEAAAQBAJ&redir_esc=y">Конкурентное программирование на Scala. Автор: Александр Прокопец</a></li>
@@ -89,6 +90,8 @@
     <li><a href="https://www.manning.com/books/functional-programming-in-scala">Functional Programming in Scala</a></li>
     <li><a href="https://leanpub.com/pfp-scala">Practical FP in Scala by Gabriel Volpe</a></li>
     <li><a href="https://underscore.io/books/scala-with-cats/">Scala with Cats by Underscore.io</a></li>
+    <li><a href="https://leanpub.com/pfp-scala">Practical FP in Scala by Gabriel Volpe</a></li>
+    <li><a href="https://www.amazon.com/Functional-Programming-Simplified-Alvin-Alexander/dp/1979788782">Functional Programming, Simplified by Alvin Alexander</a></li>
     <li><a href="https://www.zionomicon.com/">Zionomicon by John De Goes</a></li>
   </ul>
 </details>
@@ -105,7 +108,8 @@
 <details>
 <summary>Інше</summary>
   <ul>
-    <li><a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/">Designing Data-Intensive Applications</a></li>
+    <li><a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/">Designing Data-Intensive Applications by Martin Kleppmann</a></li>
+    <li><a href="https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504">Purely Functional Data Structures by Chris Okasaki</a></li>
   </ul>
 </details>
 
