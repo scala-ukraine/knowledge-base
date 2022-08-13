@@ -178,8 +178,9 @@
 ## :hammer_and_wrench: Інше
 
 ## :scientist: Opensource
-<span>Відкриті проекти учасників нашої спільноти:</span>
-<ul>
+<details>
+  <summary>Відкриті проекти учасників нашої спільноти</summary>
+  <ul>
     <li><a href="https://github.com/VladKopanev/cats-saga">Cats Saga</a></li>
     <li><a href="https://github.com/rssh/dotty-cps-async">Dotty CSP Async</a></li>
     <li><a href="https://github.com/yakivy/dupin">Dupin</a></li>
@@ -194,6 +195,7 @@
     <li><a href="https://github.com/vitaliihonta/scala-ql">ScalaQL</a></li>
     <li><a href="https://github.com/VladKopanev/zio-saga">ZIO Saga</a></li>
 </ul>
+</details>
 
 <!-- Code of Conduct -->
 ## :scroll: Статут
