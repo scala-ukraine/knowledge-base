@@ -167,10 +167,10 @@
 <!-- Communities -->
 ### :family: Спільноти
 <ul>
-    <li><a href="https://t.me/scala_ukraine">Scala Ukraine</a></li>
-    <li><a href="https://www.facebook.com/groups/scala.ua">ScalaUA Facebook Group</a></li>
+    <li><a href="https://t.me/scala_ukraine">Scala Ukraine - основний чат Scala спільноти в Україні</a></li>
+    <li><a href="https://t.me/scala_hero">Scala Hero - спільнота скала героїв, допомога новачкам і не тільки</a></li>
+    <li><a href="https://www.facebook.com/groups/scala.ua">ScalaUA Facebook Group - сторінка ScalaUA у facebook</a></li>
     <li><a href="https://www.meetup.com/meetup-group-kyiv-scala-group/">Kyiv Scala Meetup Group</a></li>
-    <li><a href="https://t.me/scala_hero">Scala Hero</a></li>
     <li><a href="https://t.me/+wCiOYwuqEQ04MWJi">Kyiv Data Science</a></li>
 </ul>
 
