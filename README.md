@@ -180,21 +180,41 @@
 ## :scientist: Opensource
 <details>
   <summary>Відкриті проекти учасників нашої спільноти</summary>
+  <h3>DI</h3>
   <ul>
-    <li><a href="https://github.com/VladKopanev/cats-saga">Cats Saga</a></li>
-    <li><a href="https://github.com/rssh/dotty-cps-async">Dotty CSP Async</a></li>
-    <li><a href="https://github.com/yakivy/dupin">Dupin</a></li>
-    <li><a href="https://github.com/jap-company/fields">Fields</a></li>
-    <li><a href="https://github.com/yakivy/jam">Jam</a></li>
+    <li><a href="https://github.com/yakivy/jam">Jam - Jam is an incredibly simple DI Scala library</a></li>
+  </ul>
+    <h3>Docker In Docker</h3>
+  <ul>
     <li><a href="https://gitlab.com/NineKFlames/java-18-temurin-dind">Java 18 Temurin: Docker-in-Docker</a></li>
-    <li><a href="https://github.com/plokhotnyuk/jsoniter-scala">Jsoniter Scala</a></li>
     <li><a href="https://gitlab.com/NineKFlames/maven-dind">Maven: Docker-in-Docker</a></li>
-    <li><a href="https://github.com/yakivy/poppet">Poppet</a></li>
-    <li><a href="https://github.com/plokhotnyuk/rtree2d">RTree2D</a></li>
     <li><a href="https://gitlab.com/NineKFlames/sbt-dind">SBT: Docker-in-Docker</a></li>
-    <li><a href="https://github.com/vitaliihonta/scala-ql">ScalaQL</a></li>
-    <li><a href="https://github.com/VladKopanev/zio-saga">ZIO Saga</a></li>
-</ul>
+  </ul>
+  <h3>DSLs</h3>
+  <ul>
+     <li><a href="https://github.com/vitaliihonta/scala-ql">ScalaQL - Statically typed query DSL for Scala</a></li>
+  </ul>
+  <h3>Effects Related</h3>
+  <ul>
+    <li><a href="https://github.com/VladKopanev/cats-saga">Cats Saga - Purely Functional Transaction Management In Scala With Cats</a></li>
+    <li><a href="https://github.com/rssh/dotty-cps-async">Dotty CSP Async - The implementation of async/await transformation for Scala 3</a></li>
+    <li><a href="https://github.com/VladKopanev/zio-saga">ZIO Saga - Purely Functional Transaction Management In Scala With ZIO</a></li>
+  </ul>
+  <h3>Validation</h3>
+  <ul>
+    <li><a href="https://github.com/yakivy/dupin">Dupin - Minimal, idiomatic, customizable validation Scala library</a></li>
+    <li><a href="https://github.com/jap-company/fields">Fields - Scala validation library</a></li>
+  </ul>
+  <h3>JSON</h3>
+  <ul>
+    <li><a href="https://github.com/plokhotnyuk/jsoniter-scala">Jsoniter Scala</a></li>
+  </ul>
+  </ul>
+  <h3>Other</h3>
+  <ul>
+    <li><a href="https://github.com/yakivy/poppet">Poppet - Minimal, type-safe RPC Scala library</a></li>
+    <li><a href="https://github.com/plokhotnyuk/rtree2d">RTree2D - 2D immutable R-tree for ultra-fast nearest and intersection queries in plane and spherical coordinates</a></li>
+  </ul>
 </details>
 
 <!-- Code of Conduct -->
