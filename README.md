@@ -199,6 +199,7 @@
     <li><a href="https://github.com/VladKopanev/cats-saga">Cats Saga - Purely Functional Transaction Management In Scala With Cats</a></li>
     <li><a href="https://github.com/rssh/dotty-cps-async">Dotty CSP Async - The implementation of async/await transformation for Scala 3</a></li>
     <li><a href="https://github.com/VladKopanev/zio-saga">ZIO Saga - Purely Functional Transaction Management In Scala With ZIO</a></li>
+    <li><a href="https://github.com/vitaliihonta/zio-temporal">ZIO Temporal - Build invincible apps with ZIO and Temporal</a></li>
   </ul>
   <h3>Validation</h3>
   <ul>
