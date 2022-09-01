@@ -12,4 +12,4 @@
 
 If you followed these easy steps, everything should be okay, we will post your vacancy on our channel ASAP.
 
-**NOTE** however, that we will not post any vacancy for the company that is somehow connected to russia (gov or business, it doesn't matter) or continues to work in russia and pay taxes there. Let us remember that #RussiaIsATerroristState!!
+**NOTE** however, that we will not post any vacancy for the company that is somehow connected to russia or belarus (gov or business, it doesn't matter) or continues to work in those countries and pay taxes there. Let us remember that #RussiaIsATerroristState!!
