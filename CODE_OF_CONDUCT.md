@@ -16,7 +16,7 @@
 - Публічне чи приватне переслідування
 - Публікація приватної інформації інших осіб, наприклад фізичної чи електронної адреси, без явного дозволу
 - Спам
-- Реклама вакансій без дозволу адміністраторів
+- Реклама вакансій без дозволу адміністраторів (дивись детальніше у [наших правилах](jobs/RULES.md) для вакансій)
 - Інша поведінка, яку можна обґрунтовано вважати недоречною у професійній обстановці
 
 Адміністрація спільноти Scala Ukraine зберігає за собою право видаляти або мю'тити будь-кого з чату за порушення перелічених правил.
@@ -38,7 +38,7 @@ We do not welcome:
 - Public or private harassment
 - Publishing others' private information, such as a physical or electronic address, without explicit permission
 - Spam
-- Advertisement of vacancies without the permission of administrators
+- Advertisement of vacancies without the permission of administrators (see [job posting rules](jobs/RULES.md))
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
 Scala Ukraine community administration has the right to delete or mute anyone from the chat for violating the listed rules.
