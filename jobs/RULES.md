@@ -1,7 +1,7 @@
 # Scala Ukraine Jobs posting rules for recruiters, team leads, entrepreneurs and everyone else
 
 1. Join [Scala Ukraine Jobs](https://t.me/scalauajobs) channel.
-1. Make a job description according to the [template](VACANCY_TEMPLATE.md).
+1. Make a job description according to the [template](https://raw.githubusercontent.com/scala-ukraine/knowledge-base/main/jobs/VACANCY_TEMPLATE.md).
 1. Make sure not to change the markup, it will be used in the Telegram post.
 1. Send prepared job description to one of the admins (see contacts in the channel description). 
 1. Wait until it's approved.
