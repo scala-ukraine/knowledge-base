@@ -87,11 +87,11 @@
 <details>
   <summary>Функціональне Програмування</summary>
   <ul>
-    <li><a href="https://www.manning.com/books/functional-programming-in-scala">Functional Programming in Scala</a></li>
+    <li><a href="https://leanpub.com/feda">Functional Event-Driven Architecture by Gabriel Volpe</a></li>
+    <li><a href="https://www.manning.com/books/functional-programming-in-scala">Functional Programming in Scala by Paul Chiusano and Runar Bjarnason</a></li>
+    <li><a href="https://www.amazon.com/Functional-Programming-Simplified-Alvin-Alexander/dp/1979788782">Functional Programming, Simplified by Alvin Alexander</a></li>
     <li><a href="https://leanpub.com/pfp-scala">Practical FP in Scala by Gabriel Volpe</a></li>
     <li><a href="https://underscore.io/books/scala-with-cats/">Scala with Cats by Underscore.io</a></li>
-    <li><a href="https://leanpub.com/pfp-scala">Practical FP in Scala by Gabriel Volpe</a></li>
-    <li><a href="https://www.amazon.com/Functional-Programming-Simplified-Alvin-Alexander/dp/1979788782">Functional Programming, Simplified by Alvin Alexander</a></li>
     <li><a href="https://www.zionomicon.com/">Zionomicon by John De Goes</a></li>
   </ul>
 </details>
@@ -101,6 +101,7 @@
   <ul>
     <li><a href="https://www.amazon.com/Scala-Programming-Big-Data-Analytics/dp/1484248090">Scala Programming for Big Data Analytics: Get Started With Big Data Analytics Using Apache Spark</a></li>
     <li><a href="https://www.amazon.com/Scala-Spark-Big-Data-Analytics/dp/1785280848">Scala and Spark for Big Data Analytics: Explore the concepts of functional programming, data streaming, and machine learning</a></li>
+    <li><a href="https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219">Spark: The Definitive Guide: Big Data Processing Made Simple</a></li>
   </ul>
   
 </details>
@@ -213,8 +214,10 @@
   </ul>
   <h3>Other</h3>
   <ul>
+    <li><a href="https://github.com/CoolDalek/Flames">Flames - Scala 3 Actors implementation</a></li>
     <li><a href="https://github.com/yakivy/poppet">Poppet - Minimal, type-safe RPC Scala library</a></li>
     <li><a href="https://github.com/plokhotnyuk/rtree2d">RTree2D - 2D immutable R-tree for ultra-fast nearest and intersection queries in plane and spherical coordinates</a></li>
+    <li><a href="https://github.com/pashashiz/scanet3">Scanet3 - Type-safe, high performance, distributed Neural networks in Scala</a></li>
   </ul>
 </details>
 
