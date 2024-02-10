@@ -218,6 +218,7 @@
     <li><a href="https://github.com/yakivy/poppet">Poppet - Minimal, type-safe RPC Scala library</a></li>
     <li><a href="https://github.com/plokhotnyuk/rtree2d">RTree2D - 2D immutable R-tree for ultra-fast nearest and intersection queries in plane and spherical coordinates</a></li>
     <li><a href="https://github.com/pashashiz/scanet3">Scanet3 - Type-safe, high performance, distributed Neural networks in Scala</a></li>
+    <li><a href="https://github.com/xdev-developer/gen4s">Gen4s - Data generator tool</a></li>
   </ul>
 </details>
 
