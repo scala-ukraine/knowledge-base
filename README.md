@@ -181,6 +181,10 @@
 ## :scientist: Opensource
 <details>
   <summary>Відкриті проекти учасників нашої спільноти</summary>
+  <h3>Blockchain</h3>
+    <ul>
+      <li><a href="https://github.com/nau/scalus">Scalus - DApps Development Platform for Cardano</a></li>
+    </ul>
   <h3>DI</h3>
   <ul>
     <li><a href="https://github.com/yakivy/jam">Jam - Jam is an incredibly simple DI Scala library</a></li>
