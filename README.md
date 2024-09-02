@@ -181,6 +181,11 @@
 ## :scientist: Opensource
 <details>
   <summary>Відкриті проекти учасників нашої спільноти</summary>
+  <h3>Big data</h3>
+  <ul>
+    <li><a href="https://github.com/grouzen/zio-apache-arrow">ZIO Apache Arrow - ZIO-powered Apache Arrow library</a></li>
+    <li><a href="https://github.com/grouzen/zio-apache-parquet">ZIO Apache Parquet - ZIO-powered Apache Parquet library</a></li>
+  </ul>
   <h3>Blockchain</h3>
     <ul>
       <li><a href="https://github.com/nau/scalus">Scalus - DApps Development Platform for Cardano</a></li>
